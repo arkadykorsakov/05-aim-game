@@ -1,2 +1,2 @@
-# 05-aim-game
+# aim-game
 Игра "Aim Game" с 3мя экранами!
